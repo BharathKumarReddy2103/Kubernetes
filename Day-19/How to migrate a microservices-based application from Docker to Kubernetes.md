@@ -1,4 +1,4 @@
-# 🚀 From Docker to Kubernetes: A DevOps Engineer’s End-to-End Migration Guide
+# 🚀 From Docker to Kubernetes: A DevOps Engineer’s End-to-End Migration Guide. Kubernetes Implementation from Scratch to Production.
 
 In this detailed guide, we’ll walk through the **real-world DevOps journey** of migrating a microservices-based architecture—originally deployed with Docker Compose on virtual machines—into a fully scalable, secure, and production-ready **Kubernetes setup**. Whether you're working on **AWS EKS**, **GKE**, or **Azure AKS**, this roadmap applies across platforms.
 
