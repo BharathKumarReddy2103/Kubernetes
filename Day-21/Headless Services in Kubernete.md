@@ -1,4 +1,4 @@
-# Understanding Headless Services in Kubernetes 🔍
+# Headless Services in Kubernetes 🔍
 
 Kubernetes services simplify how applications discover and communicate with each other in a cluster. But when you're working with stateful applications—such as MySQL or Redis—a traditional service isn't always ideal. That’s where **Headless Services** come in.
 
