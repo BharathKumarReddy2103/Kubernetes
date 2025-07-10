@@ -109,7 +109,7 @@ ReplicaSets ensure **desired state** by managing pod replicas.
 
 ✅ Ensures the correct number of pod instances
 
-✅ Basis for Deployments
+✅ ReplicaSets are the foundation that Deployments use to manage and maintain multiple copies of Pods
 
 Example YAML:
 
