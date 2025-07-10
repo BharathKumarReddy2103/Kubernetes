@@ -233,5 +233,4 @@ If you're serious about mastering Kubernetes, start exploring:
 
 If you found this guide helpful, feel free to fork and contribute to my GitHub repository.
 
-🚀 **Follow for more DevOps & Cloud content**
-
+🚀 **Follow for more DevOps & Cloud content.**
