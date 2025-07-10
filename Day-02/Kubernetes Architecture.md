@@ -1,3 +1,5 @@
+![Kubernetes Architecture](https://raw.githubusercontent.com/BharathKumarReddy2103/Kubernetes/main/Day-02/kubernetes-architecture.png)
+
 # 🚀 Introduction: Why Do We Need Kubernetes?
 
 Imagine managing **hundreds of containers** running your production workloads. You manually configure and restart them, and if a single piece of bad code sneaks in — it can crash containers and potentially take down your whole environment. 😓
