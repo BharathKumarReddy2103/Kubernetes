@@ -1,5 +1,7 @@
 ## 🚀 Boost Your Kubernetes CLI Productivity with Aliases
 
+![Kubernetes Aliases](https://github.com/BharathKumarReddy2103/Kubernetes/raw/main/Day-24/Kubernetes%20Aliases%20for%20Faster%20Development.png)
+
 If you're just starting your journey with Kubernetes, the command-line tool `kubectl` can feel overwhelming due to its length and repetitive nature. But there's a simple trick that experienced DevOps engineers use to work faster and smarter: **aliases**.
 
 Instead of memorizing long `kubectl` commands every time, why not create shortcuts that make your life easier? Let’s walk through some handy aliases that can streamline your workflow and help you become more efficient.
