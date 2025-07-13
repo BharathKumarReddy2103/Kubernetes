@@ -1,7 +1,5 @@
 # ☸️ Kubernetes Isn’t That Hard — Here's What Actually Matters
 
-![Mastering Kubernetes Diagram](https://github.com/BharathKumarReddy2103/Kubernetes/raw/main/Day-25/Mastering%20Kubernetes%20What%20You%20Really%20Need%20to%20Know.png)
-
 Let’s be real for a second — Many people see Kubernetes as complex and hard to learn at first.  
 YAML configurations, unstable pods, and complex networking can make Kubernetes feel overwhelming — especially when you run into common issues like CrashLoopBackOff.  
 
