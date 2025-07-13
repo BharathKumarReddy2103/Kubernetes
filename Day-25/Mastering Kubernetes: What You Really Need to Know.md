@@ -1,5 +1,7 @@
 # 🚀 Mastering Kubernetes: What You *Really* Need to Know
 
+![Mastering Kubernetes Diagram](https://github.com/BharathKumarReddy2103/Kubernetes/raw/main/Day-25/Mastering%20Kubernetes%20What%20You%20Really%20Need%20to%20Know.png)
+
 Kubernetes might seem overwhelming at first—but it’s not as hard as it looks.  
 Once you understand the key components and workflows, you'll realize it's more about knowing **what to focus on** and **how to put the pieces together**.
 
