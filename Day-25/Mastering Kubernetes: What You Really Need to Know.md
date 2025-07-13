@@ -133,4 +133,4 @@ Just focus on understanding the core building blocks and how they fit together �
 Kubernetes is deep, and this list could go on forever.
 But if you've got these 13 topics under your belt, you're already ahead of most.
 
-Feel free to fork this repo, open an issue, or drop a PR with your favorite tip 💬
+Feel free to fork this repo, open an issue, or drop a PR with your favorite tip. 💬
